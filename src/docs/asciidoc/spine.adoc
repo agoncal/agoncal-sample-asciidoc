@@ -1,0 +1,17 @@
+= Sample: Asciidoc
+Antonio Goncalves
+// Cover
+//:front-cover-image: image::cover-epub.jpg[Front Cover,1050,1600]
+
+== Acknowledgments
+
+Blah blah blah blah blah blah blah blah blah blah blah blah.
+Blah blah blah blah blah blah blah blah blah blah blah blah.
+Blah blah blah blah blah blah blah blah blah blah blah blah.
+Blah blah blah blah blah blah blah blah blah blah blah blah.
+Blah blah blah blah blah blah blah blah blah blah blah blah.
+
+== Body
+
+Blah blah blah blah blah blah blah blah blah blah blah blah.
+Blah blah blah blah blah blah blah blah blah blah blah blah.
