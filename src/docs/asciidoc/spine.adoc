@@ -1,7 +1,8 @@
 = Sample: Asciidoc
 Antonio Goncalves
+:imagesdir: ./images
 // Cover
-//:front-cover-image: image::cover-epub.jpg[Front Cover,1050,1600]
+:front-cover-image: image:cover/cover.jpg[fit=fill]
 
 == Acknowledgments
 
