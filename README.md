@@ -1,2 +1,3 @@
 # agoncal-sample-asciidoc
-Asciidoc Samples
+
+Generate Asciidoc document using `mvn clean generate-resources`
