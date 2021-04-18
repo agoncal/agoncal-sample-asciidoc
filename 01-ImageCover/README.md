@@ -14,4 +14,5 @@ But not every format has a front and/or back cover.
 
 ## References
 
-* [https://docs.asciidoctor.org/asciidoctorj/latest/asciidoctor-api-options/#backend][backend]
+* [backends](https://docs.asciidoctor.org/asciidoctorj/latest/asciidoctor-api-options/#backend)
+* [document_test.rb](https://github.com/asciidoctor/asciidoctor/blob/master/test/document_test.rb)
