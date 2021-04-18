@@ -2,12 +2,17 @@
 Antonio Goncalves
 :imagesdir: ./images
 // Cover
-:front-cover-image: image:cover/cover.default[fit=fill]
 ifdef::backend-pdf[]
-:front-cover-image: image:cover/cover.pdf[fit=fill]
+:front-cover-image: image:cover/pdf-front-cover.jpg[fit=fill]
+:back-cover-image: image:cover/pdf-back-cover.jpg[fit=fill]
 endif::[]
-ifdef::backend-docbook[]
-:front-cover-image: image:cover/cover.epub[fit=fill]
+ifdef::backend-epub3[]
+:front-cover-image: image:cover/epub-front-cover.jpg[Front Cover,1050,1600]
+:back-cover-image: image:cover/epub-back-cover.jpg[Back Cover,1050,1600]
+endif::[]
+ifdef::backend-html5[]
+:front-cover-image: image:cover/html-front-cover.jpg[fit=fill]
+:back-cover-image: image:cover/html-front-cover.jpg[fit=fill]
 endif::[]
 
 == Acknowledgments
