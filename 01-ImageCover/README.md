@@ -1,8 +1,10 @@
 # agoncal-sample-asciidoc-cover
 
-How to have a different cover for each format (PDF, EPUB).
+How to have a different cover for each format (PDF, EPUB, HTML).
+Asciidoc uses two attributes to handle front and back cover (`:front-cover-image:` and `:back-cover-image:`).
+But not every format has a front and/or back cover.
 
-## References
+## Formats and covers
 
 | Format | Front Cover | Back Cover |
 | --------------- | --------------- | --------------- |
